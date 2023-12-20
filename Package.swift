@@ -13,7 +13,7 @@ let package = Package(
             targets: ["Tabman"])
     ],
     dependencies: [
-        .package(url: "https://github.com/rocketnik/Pageboy", from: "4.0.2+fork.nm.2")
+        .package(url: "https://github.com/rocketnik/Pageboy", from: "4.0.2.1")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
